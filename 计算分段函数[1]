@@ -1,0 +1,10 @@
+#@zer0_1s
+#https://pintia.cn/problem-sets/1111652100718116864/problems/1111653447408467968
+#use {} & ： 
+
+x=float(input())
+if x==0:
+    y=0
+else:
+    y=1/x
+print("f({:.1f}) = {:.1f}".format(x,y))
