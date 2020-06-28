@@ -1,0 +1,5 @@
+#zer0_1s
+#https://pintia.cn/problem-sets/1111652100718116864/problems/1111653039147499520
+
+s = "Python语言简单易学"
+print(s.encode("utf-8"))
