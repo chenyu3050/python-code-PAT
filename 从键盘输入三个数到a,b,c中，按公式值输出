@@ -1,0 +1,6 @@
+#@zer0_1s
+#https://pintia.cn/problem-sets/1111652100718116864/problems/1111653039147499522
+
+a,b,c=input().split()
+k=int(b)*int(b)-4*int(a)*int(c)
+print(k)
